@@ -1,4 +1,11 @@
 # 📋 Electronics Network Management System
+
+https://img.shields.io/badge/Django-3.2.19-green.svg
+https://img.shields.io/badge/DRF-3.13.1-blue.svg
+https://img.shields.io/badge/PostgreSQL-10+-blue.svg
+https://img.shields.io/badge/Python-3.8+-yellow.svg
+https://img.shields.io/badge/License-MIT-orange.svg
+
 Система управления сетью по продаже электроники с иерархической структурой, 
 REST API и админ-панелью.
 
